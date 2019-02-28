@@ -16,6 +16,7 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		System.out.println("Project Planning Version 2");
 		System.out.println(Constant.PROJECT_PLANNER_APPLICATION + Constant.NEW_LINE);
 		Controller controller = new Controller();
 		controller.runProjectPlanner();
