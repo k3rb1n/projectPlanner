@@ -8,8 +8,8 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.planner.classes.Project;
-import com.planner.classes.Task;
+import com.planner.beans.Project;
+import com.planner.beans.Task;
 import com.planner.constants.Constant;
 import com.planner.utils.Utils;
 
