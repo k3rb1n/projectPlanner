@@ -3,7 +3,7 @@
  */
 package com.planner.controller;
 
-import com.planner.classes.Project;
+import com.planner.beans.Project;
 import com.planner.constants.Constant;
 import com.planner.services.DisplayService;
 import com.planner.services.ProjectService;

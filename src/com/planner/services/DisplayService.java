@@ -3,8 +3,8 @@
  */
 package com.planner.services;
 
-import com.planner.classes.Project;
-import com.planner.classes.Task;
+import com.planner.beans.Project;
+import com.planner.beans.Task;
 import com.planner.constants.Constant;
 
 /**

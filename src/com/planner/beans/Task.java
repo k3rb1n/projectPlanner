@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.planner.classes;
+package com.planner.beans;
 
 import java.time.LocalDate;
 import java.util.List;
